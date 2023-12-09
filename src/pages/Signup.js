@@ -20,7 +20,7 @@ function Signup() {
         console.log('final form submitted');
         console.log(signupForm);
         setSignupForm({
-            'accountType': "",
+            'accountType': "Student",
             'firstName':"",
             'lastName':"",
             'email':"",
